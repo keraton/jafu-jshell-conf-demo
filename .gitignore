@@ -1,0 +1,5 @@
+jafu-reactive-minimal.iml
+.idea/*
+.mvn/*
+grall/*
+gradle/*
