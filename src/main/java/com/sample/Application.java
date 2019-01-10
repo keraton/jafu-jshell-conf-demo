@@ -38,7 +38,6 @@ public class Application {
 
 	public static void main (String[] args) {
 		applicationContext = app.run(args);
-
-        ExistingVMRemoteExecutionControl.startJshell("localhost", "4568");
+		ExistingVMRemoteExecutionControl.startJshell("localhost", "4568");
 	}
 }
